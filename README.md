@@ -1,1 +1,1 @@
-# Introduction to Statistical Learning with R -- Python Applied Solution
+# ISL R -- Python Labs and Applied
