@@ -9,21 +9,21 @@ Tibshirani (2013).
 ___
 
 This is a well-written book that provides a thoruough introduction to
-statistical learning methods. The book and associated datasets are available on the ['authors website'](http://www-bcf.usc.edu/~gareth/ISL/). In addition,the [' UCI Machine Learning Repository'](http://archive.ics.uci.edu/ml/) is a fantastic resource for many more publicly available dtasets.
+statistical learning methods. The book and associated datasets are available on the [authors website](http://www-bcf.usc.edu/~gareth/ISL/). In addition,the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/) is a fantastic resource for many more publicly available datasets.
 
 Since I use python for data analysis, I decided to rewrite the labs and
 answer the applied questions using python and the following packages:
 
-* Numpy
-* Scipy
-* Pandas
-* Scikit-learn
-* Statsmodels
-* Patsy
+* [Numpy](http://www.numpy.org/)
+* [Scipy](https://www.scipy.org/)
+* [Pandas](http://pandas.pydata.org/)
+* [Scikit-learn](http://scikit-learn.org/stable/)
+* [Statsmodels](http://statsmodels.sourceforge.net/)
+* [Patsy](https://patsy.readthedocs.io/en/latest/)
 * Matplotlib
 
 The code for each lab or applied question is written in a Jupyter notebook.
-For the applied questions, there is *no guarantee* that the solutions are
+For the applied questions, there is **no guarantee** that the solutions are
 correct. Suggestions and corrections are welcome.
 
 ## Chapters
