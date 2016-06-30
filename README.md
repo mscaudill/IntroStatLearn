@@ -8,6 +8,6 @@ R'](http://www-bcf.usc.edu/~gareth/ISL/) by James, Witten, Hastie and
 Tibshirani (2013). 
 ___
 
-# Chapters
+## Chapters
 - [Chapter 2: Statistical Learning](notebooks/Ch2_Statistical_Learning)
 - [Chapter 3: Linear Regression](notebooks/Ch3_Linear_Regression)
