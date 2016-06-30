@@ -6,6 +6,7 @@ Python code for Labs and Applied questions from the book: ['Introduction to
 Statistical Learning with Applications in
 R'](http://www-bcf.usc.edu/~gareth/ISL/) by James, Witten, Hastie and
 Tibshirani (2013). 
+___
 
 <p align="center">
   <b>Chapters:</b><br>
