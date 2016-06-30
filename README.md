@@ -8,7 +8,6 @@ R'](http://www-bcf.usc.edu/~gareth/ISL/) by James, Witten, Hastie and
 Tibshirani (2013). 
 ___
 
-## Summary
 This is a well-written book that provides a thoruough introduction to
 statistical learning methods. The book and associated datasets are available on the ['authors website'](http://www-bcf.usc.edu/~gareth/ISL/). In addition,the [' UCI Machine Learning Repository'](http://archive.ics.uci.edu/ml/) is a fantastic resource for many more publicly available dtasets.
 
