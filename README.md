@@ -1,3 +1,3 @@
 # ISLR -- Python: Labs and Applied
 
-![Alt Text](https://github.com/mscaudill/IntroStatLearn/blob/master/ISLRimage.jpg )
+<img src="https://github.com/mscaudill/IntroStatLearn/blob/master/ISLRimage.jpg" height="100">
