@@ -14,13 +14,13 @@ statistical learning methods. The book and associated datasets are available on 
 Since I use python for data analysis, I decided to rewrite the labs and
 answer the applied questions using python and the following packages:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Numpy](http://www.numpy.org/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Scipy](https://www.scipy.org/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Pandas](http://pandas.pydata.org/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Scikit-learn](http://scikit-learn.org/stable/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Statsmodels](http://statsmodels.sourceforge.net/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Patsy](https://patsy.readthedocs.io/en/latest/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Matplotlib](http://matplotlib.org/)
+[Numpy](http://www.numpy.org/)<br>
+[Scipy](https://www.scipy.org/)<br>
+[Pandas](http://pandas.pydata.org/)<br>
+[Scikit-learn](http://scikit-learn.org/stable/)<br>
+[Statsmodels](http://statsmodels.sourceforge.net/)<br>
+[Patsy](https://patsy.readthedocs.io/en/latest/)<br>
+[Matplotlib](http://matplotlib.org/)
 
 The code for each lab or applied question is written in a Jupyter notebook.
 For the applied questions, there is **no guarantee** that the solutions are
