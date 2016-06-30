@@ -8,7 +8,8 @@
 <p align="center">
   <b>Chapters:</b><br>
     <a
-    href="https://github.com/mscaudill/IntroStatLearn/tree/master/notebooks/Ch2_Statistical_Learning"> Chapter 2: Statistical Learning</a> <br>
+    href="https://github.com/mscaudill/IntroStatLearn/tree/master/notebooks/Ch2_Statistical_Learning"> 
+    Chapter 2: Statistical Learning</a> <br>
     <a href="#">Link 2</a> <br>
     <a href="#">Link 3</a>
     <br><br>
