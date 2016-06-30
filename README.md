@@ -14,7 +14,7 @@ statistical learning methods. The book and associated datasets are available on 
 Since I use python for data analysis, I decided to rewrite the labs and
 answer the applied questions using python and the following packages:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Numpy](http://www.numpy.org/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Numpy](http://www.numpy.org/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Scipy](https://www.scipy.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Pandas](http://pandas.pydata.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Scikit-learn](http://scikit-learn.org/stable/)
