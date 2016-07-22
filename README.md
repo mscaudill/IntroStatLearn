@@ -30,7 +30,7 @@ correct. Suggestions and corrections are welcome.
 - [Chapter 2: Statistical Learning](notebooks/Ch2_Statistical_Learning)
 - [Chapter 3: Linear Regression](notebooks/Ch3_Linear_Regression)
 - [Chapter 4: Classification](notebooks/Ch4_Classification)
-- [Chapter 5: ]()
+- [Chapter 5: Resampling Methods](notebooks/Ch5_Resampling_Methods)
 - [Chapter 6: ]()
 - [Chapter 7: ]()
 - [Chapter 8: ]()
