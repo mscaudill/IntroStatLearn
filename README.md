@@ -8,10 +8,7 @@ R'](http://www-bcf.usc.edu/~gareth/ISL/) by James, Witten, Hastie and
 Tibshirani (2013). 
 ___
 
-This is a well-written book that provides a thoruough introduction to
-statistical learning methods. The book and associated datasets are available on the [authors website](http://www-bcf.usc.edu/~gareth/ISL/). In addition,the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/) is a fantastic resource for many more publicly available datasets.
-
-Since I use python for data analysis, I decided to rewrite the labs and
+This well-written book provides an excellent introduction to statistical learning methods. The algorithms and datasets used in the book are written in R. Since I use python for data analysis, I decided to rewrite the labs and
 answer the applied questions using python and the following packages:
 
 [Numpy](http://www.numpy.org/)<br>
@@ -22,9 +19,12 @@ answer the applied questions using python and the following packages:
 [Patsy](https://patsy.readthedocs.io/en/latest/)<br>
 [Matplotlib](http://matplotlib.org/)
 
+I have also converted the R datasets into csv files. These can be found in
+the data directory.
+
 The code for each lab or applied question is written in a Jupyter notebook.
 For the applied questions, there is **no guarantee** that the solutions are
-correct. Suggestions and corrections are welcome.
+correct. Suggestions and corrections are always welcome.
 
 ## Chapters
 - [Chapter 2: Statistical Learning](notebooks/Ch2_Statistical_Learning)
