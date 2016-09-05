@@ -31,7 +31,8 @@ correct. Suggestions and corrections are welcome.
 - [Chapter 3: Linear Regression](notebooks/Ch3_Linear_Regression)
 - [Chapter 4: Classification](notebooks/Ch4_Classification)
 - [Chapter 5: Resampling Methods](notebooks/Ch5_Resampling_Methods)
-- [Chapter 6: ]()
+- [Chapter 6: Linear Model Selection &
+  Regularization](/Ch6_Linear_Model_Selection_Regularization)
 - [Chapter 7: ]()
 - [Chapter 8: ]()
 - [Chapter 9: ]()
