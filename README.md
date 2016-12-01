@@ -33,7 +33,8 @@ correct. Suggestions and corrections are always welcome.
 - [Chapter 5: Resampling Methods](notebooks/Ch5_Resampling_Methods)
 - [Chapter 6: Linear Model Selection &
   Regularization](notebooks/Ch6_Linear_Model_Selection_Regularization)
-- [Chapter 7: ]()
+- [Chapter 7: Moving Beyond Linearity
+  ](notebooks/Ch7_Moving_Beyond_Linearity)
 - [Chapter 8: ]()
 - [Chapter 9: ]()
 - [Chapter 10:]()
