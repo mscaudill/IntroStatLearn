@@ -35,7 +35,7 @@ correct. Suggestions and corrections are always welcome.
   Regularization](notebooks/Ch6_Linear_Model_Selection_Regularization)
 - [Chapter 7: Moving Beyond Linearity
   ](notebooks/Ch7_Moving_Beyond_Linearity)
-- [Chapter 8: ]()
+- [Chapter 8: Tree-Based Methods](/notebooks/Ch8_Tree_Methods)
 - [Chapter 9: ]()
 - [Chapter 10:]()
 
